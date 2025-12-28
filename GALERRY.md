@@ -1,6 +1,6 @@
 # Project Gallery & Execution Log
 
-## 1. Concept & Theory (Day 1-2)
+## 1. SKYWater130 DAY 1-2
 *Understanding the Open-Source ASIC Flow and Standard Cell Design.*
 
 | Image | Description |
@@ -12,7 +12,7 @@
 
 ---
 
-## 2. Inverter Design & Characterization (Day 3)
+## 2. SKYWater130 DAY 3
 *Designing the `sky130_vsdinv` cell, analyzing robustness, and extracting parameters.*
 
 | Image | Description |
@@ -31,8 +31,8 @@
 | :--- | :--- |
 | ![Magic Layout](Pictures/Screenshot_2025-12-28_00-44-13.png) | **Final Layout:** The completed `sky130_vsdinv` layout in Magic. |
 | ![Grid Setup](Pictures/Screenshot_2025-12-28_11-06-22.png) | **Grid Alignment:** Configuring the grid to match the track pitch. |
-| ![DRC Checks](Pictures/Screenshot_2025-12-28_05-13-12.png) | **DRC Verification:** Checking Metal3 area and spacing rules. |
-| ![DRC Terminal](Pictures/Screenshot_2025-12-28_05-35-29.png) | **DRC Logs:** Analyzing terminal output for poly and diffusion spacing violations. |
+| ![DRC Checks](Pictures/Screenshot_2025-12-28_05-13-12.png) | **DRC Verification:** Checking Metal3 area and spacing rules. (Course Challange) |
+| ![DRC Terminal](Pictures/Screenshot_2025-12-28_05-35-29.png) | **DRC Logs:** Analyzing terminal output and fixing issues for poly and diffusion spacing violations. (Course Challange) |
 
 ---
 
