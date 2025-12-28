@@ -1,4 +1,4 @@
-# Engineering Issues and Solutions Log
+# Issues and Mitigations Log
 
 **Project:** RISC-V (picorv32a) Physical Design
 **Date:** December 28, 2025
